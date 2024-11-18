@@ -1,8 +1,14 @@
-This is the *Car Sharing* project I made myself.
+# Car Sharing
 
+Bem-vindo ao Car Sharing, um projeto simples que desenvolvi enquanto aprendia os fundamentos de SQL e recursos avançados do Java.
+## Objetivo do Projeto
 
-<p>During the project implementation, you will learn the basics of SQL and work with the H2 database. You will also learn about advanced Java features such as Collections.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/140?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/140</a>
+O principal objetivo deste projeto é praticar a integração de Java com banco de dados, entender como lidar com Collections e consolidar habilidades básicas em SQL utilizando o banco de dados H2.
+## O Que Este Projeto Faz?
 
-Here's the link to the project: https://hyperskill.org/projects/140
+Este projeto simula um sistema básico de compartilhamento de carros, permitindo que você:
 
-Check out my profile: https://hyperskill.org/profile/613198232
+  1. Gerencie empresas: Adicione e liste empresas que oferecem carros para compartilhamento.
+  2. Gerencie carros: Adicione e liste os carros disponíveis para cada empresa.
+  3. Controle o cliente: Registre clientes e atribua a eles carros compartilhados.
+  4. Trabalhe com banco de dados: Conecte-se a um banco H2 para armazenar e manipular informações.
